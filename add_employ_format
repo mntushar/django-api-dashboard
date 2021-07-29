@@ -1,0 +1,33 @@
+{
+    "basic_info": {
+        "name":"tushar",
+        "gender":"male",
+        "date_of_birth":"2020-08-22",
+        "age":27,
+        "phone_number":8667,
+        "email":"mntushar25@gmail.com"
+    },
+    "designation":{
+        "id": 2
+    },
+    "academic_info":[
+        {
+            "degree":"hsc",
+            "last_passing_institution_name":"hgygjhgy",
+            "last_passing_year":"2020-08-22"
+        },
+        {
+            "degree":"hsc",
+            "last_passing_institution_name":"hgygjhgy",
+            "last_passing_year":"2020-08-22"
+        }
+    ],  
+    "address":{
+        "house_no":8787,
+        "village_name":"kushtia",
+        "post_office":"daulatpur",
+        "thana_name":"daulatpur",
+        "district_name":"kushtia"
+    },
+    "password":"admin"
+}
